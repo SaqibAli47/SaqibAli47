@@ -2,14 +2,14 @@
 
 ## Hi there 👋
 
-I am a fullstack Web Developer with DevOps experience. I love to learn new technologies.
+I am a full stack Web Developer with DevOps experience. I love to learn new technologies.
 
 - 🔭 I’m currently working on
-    1. Sp-Talent-Finder (AI chatbot) which help analyze recuriters to track the previous employees record to find the best resource.
-    1. Custom WordPress Plugin (Plugin Development) which basically a lab slip form to track the maintain the pateines data with their reports to upload.
-- 🌱 I’m currently learning LLMs, CyberSecurity and BlockChain development.
-- 👯 I’m looking to collaborate on DevOps, data engineering and prompt engineering projects
-- 💬 Ask me about any thing related to app development (mobile, web, front, back, DevOps, AI, ML, Cloud)
+    1. Sp-Talent-Finder (AI chatbot) which helps analyze recruiters to track the previous employees' records to find the best resource.
+    1. Custom WordPress Plugin (Plugin Development) which is a lab slip form to track the maintain the patient's data with their reports to upload.
+- 🌱 I’m currently learning LLMs, CyberSecurity, and BlockChain development.
+- 👯 I’m looking to collaborate on DevOps, data engineering, and prompt engineering projects
+- 💬 Ask me about anything related to app development (mobile, web, front, back, DevOps, AI, ML, Cloud)
 - 📫 Contact me
     1. Email: [saqibsultan348@gmail.com](mailto:saqibsultan348@gmail.com)
     1. Phone: [+923134537412](tel:+923134537412)
@@ -18,9 +18,9 @@ I am a fullstack Web Developer with DevOps experience. I love to learn new techn
 
 ## Skills
 
-- **Languages**: Javascript, TypeScript, NEXT JS, React JS, Express JS, Mongos, Python, NEST JS
+- **Languages**: Javascript, TypeScript, Python, PHP, C++, Markdown
 
-- **Frameworks**: Django, Flask, FastAPI, Express, NestJS, Angular, React, React Native, Flutter, TailwindCSS, MaterialUI
+- **Frameworks**: Django, Flask, FastAPI, Express, NestJS, Angular, NEXT JS, React, React Native, Flutter, TailwindCSS, MaterialUI
 
 - **Databases**: PostgreSQL, MySQL, SQLite, MongoDB, Redis, Firebase, QDrant, Azure AI Search, SQL Server,
 
