@@ -2,11 +2,11 @@
 
 ## Hi there 👋
 
-I am a full stack Web Developer with DevOps experience. I love to learn new technologies.
+I am a Full Stack Web Developer with DevOps experience. I love to learn new technologies.
 
 - 🔭 I’m currently working on
     1. Sp-Talent-Finder (AI chatbot) which helps analyze recruiters to track the previous employees' records to find the best resource.
-    1. Custom WordPress Plugin (Plugin Development) which is a lab slip form to track the maintain the patient's data with their reports to upload.
+    1. WordPress Plugin (Plugin Development) which is a lab slip form to track the maintain the patient's data with their reports to upload.
 - 🌱 I’m currently learning LLMs, CyberSecurity, and BlockChain development.
 - 👯 I’m looking to collaborate on DevOps, data engineering, and prompt engineering projects
 - 💬 Ask me about anything related to app development (mobile, web, front, back, DevOps, AI, ML, Cloud)
@@ -32,10 +32,10 @@ I am a full stack Web Developer with DevOps experience. I love to learn new tech
 
 ## Projects
 
-- **AI-Spaces**: AI chatbot which help the secure the documents upload and questions answers relevant to that documents and generate a summary report.
+- **AI-Spaces**: AI chatbot that helps secure the documents upload and questions answers relevant to those documents and generate a summary report.
 
-- **Baskin Robbins**: developed the complete module of invoices for the brand to track the sales reports and analytics with all sub brands.
-- **KFC Pakistan** Developed the complete module of the Customer feedbacks and track the feedbacks to track the overall sales.
+- **Baskin Robbins**: developed the complete module of invoices for the brand to track the sales reports and analytics with all sub-brands.
+- **KFC Pakistan** Developed the complete module of the Customer feedback and tracked the feedback to track the overall sales.
 <!--
 **SaqibAli47/SaqibAli47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
