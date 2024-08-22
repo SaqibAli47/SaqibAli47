@@ -18,7 +18,7 @@ I am a fullstack Web Developer with DevOps experience. I love to learn new techn
 
 ## Skills
 
-- **Languages**: javascript, TypeScript, Python, Shell, SQL, HTML, CSS, XML, JSON, YAML, Markdown
+- **Languages**: Javascript, TypeScript, NEXT JS, React JS, Express JS, Mongos, Python, NEST JS
 
 - **Frameworks**: Django, Flask, FastAPI, Express, NestJS, Angular, React, React Native, Flutter, TailwindCSS, MaterialUI
 
