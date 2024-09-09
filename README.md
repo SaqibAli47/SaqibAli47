@@ -1,6 +1,6 @@
 # Saqib Ali | Full Stack Developer 👋
 
-I am a passionate Full Stack Developer with **5+ years of experience** in building robust and scalable web applications. I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), NEXT.js and have extensive expertise in **PHP** with the **Laravel framework**. I love to explore new technologies and keep myself updated with the latest trends in the tech world.
+I am a passionate Full Stack Developer with **5+ years of experience** in building robust and scalable web applications. I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), NEXT.js, and have extensive expertise in **PHP** with the **Laravel framework**. I love to explore new technologies and keep myself updated with the latest trends in the tech world.
 
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@ With over 5 years of experience in full-stack development, I have a proven track
 - **MERN stack development** (MongoDB, Express.js, React.js, Node.js)
 - **PHP and Laravel framework**
 - **Advanced TypeScript and JavaScript** frameworks such as **React** and **Next.js**
-- **UI design** with expertise in **HTML**, **CSS**, and **WordPress** (theme and plugin development)
+- **UI design** with expertise in **HTML**, **CSS**, **Javascript**, **React.js**, **Next.js** and **WordPress** (theme and plugin development)
 - **Shopify development** for eCommerce solutions
 
 I pride myself on strong debugging and problem-solving skills, and I am both a dedicated team player and capable of working independently to deliver solutions that meet technical requirements and user expectations.
@@ -55,8 +55,8 @@ I'm looking to collaborate on:
 ## 🌟 Highlighted Projects
 
 - **AI-Spaces**: AI chatbot that helps securely upload documents, answers queries based on them, and generates a summary report with FastAPI and React.js Technology used.
-- **SearchLook**: Developed a comprehensive invoicing module for the new fields add with React JS and make the new services with mongoose and backend integrations with the Flask API.
-- **WordPress Custom Plugin**: Built a custom WordPress plugin for the lab slip form related with the complete integrations and UI designs and Backend Integrations.
+- **SearchLook**: Developed a comprehensive invoicing module for the new fields added with React JS and made the new services with Mongoose and backend integrations with the Flask API.
+- **WordPress Custom Plugin**: Built a custom WordPress plugin for the lab slip form related to the complete integrations and UI designs and Backend Integrations.
 
 <!--
 **SaqibAli47/SaqibAli47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
