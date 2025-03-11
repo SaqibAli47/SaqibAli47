@@ -2,19 +2,19 @@
 
 I am a passionate Full Stack Developer with **5+ years of experience** in building robust and scalable web applications. I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), NEXT.js, and have extensive expertise in **PHP** with the **Laravel framework**. I love to explore new technologies and keep myself updated with the latest trends in the tech world.
 
-## 🚀 About Me
+## 🚀 About Me  
 
-With over 5 years of experience in full-stack development, I have a proven track record of delivering high-quality, scalable solutions across both front-end and back-end technologies. I excel in:
+With over **5 years of experience** in full-stack development, I specialize in designing and implementing **high-performance, scalable solutions** across both front-end and back-end technologies. My expertise includes:  
 
-- **MERN stack development** (MongoDB, Express.js, React.js, Node.js)
-- **PHP and Laravel framework**
-- **Advanced TypeScript and JavaScript** frameworks such as **React** and **Next.js**
-- **UI design** with expertise in **HTML**, **CSS**, **Javascript**, **React.js**, **Next.js** and **WordPress** (theme and plugin development)
-- **Shopify development** for eCommerce solutions
+- **Python & AI Development** – Proficient in **Django, DRF, FastAPI**, and AI-driven technologies such as **OpenAI, Vector Search, and Vector Embeddings**.  
+- **MERN Stack Development** – Skilled in **MongoDB, Express.js, React.js, and Node.js**, delivering dynamic and efficient web applications.  
+- **Cloud & DevOps** – Experienced in **AWS (EC2, S3, AWS Glue ETL), Azure (Azure CLI), Docker, Git, GitLab, and CI/CD pipelines** for seamless deployment and infrastructure management.  
+- **PHP & Laravel** – Strong command over **Core PHP, Laravel, Laravel Eloquent, and Laravel CMS** for building robust back-end solutions.  
+- **Modern JavaScript & TypeScript** – Expertise in frameworks such as **React.js and Next.js** for building fast, interactive UIs.  
+- **UI/UX & Web Design** – Advanced knowledge of **HTML, CSS, JavaScript, React.js, Next.js, and WordPress**, including **custom theme and plugin development**.  
+- **Shopify Development** – Skilled in building and customizing **eCommerce solutions** on the Shopify platform.  
 
-I pride myself on strong debugging and problem-solving skills, and I am both a dedicated team player and capable of working independently to deliver solutions that meet technical requirements and user expectations.
-
-Let's connect and discuss how I can help with your project! 🚀
+I am committed to delivering cutting-edge, scalable, and efficient web solutions tailored to business needs.
 
 ## 🔭 Current Projects
 
