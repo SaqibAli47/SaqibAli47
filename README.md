@@ -1,4 +1,4 @@
-# Saqib Ali | Full Stack Developer, Architect, & AI/ML Engineer 🚀
+# Saqib Ali | AI Eningeer | ML | Full Stack Developer | Project Management  🚀
 
 I am a results-driven Full Stack Developer, Architect, and AI/ML Engineer with 5+ years of experience. I specialize in creating highly scalable, data-intensive, and intelligent web applications by bridging modern full-stack development (MERN, Python/FastAPI) with cutting-edge Generative AI, Conversational AI, and Cloud Automation on Microsoft Azure. I focus on delivering automated, end-to-end solutions that maximize business efficiency and drive actionable analytics.
 
